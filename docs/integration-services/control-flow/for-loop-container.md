@@ -29,7 +29,7 @@ ms.workload: "On Demand"
 # For Loop Container
   The For Loop container defines a repeating control flow in a package. The loop implementation is similar to the **For** looping structure in programming languages. In each repeat of the loop, the For Loop container evaluates an expression and repeats its workflow until the expression evaluates to **False**.  
   
- The For Loop container usesthe following elements to define the loop:  
+ The For Loop container uses the following elements to define the loop:  
   
 -   An optional initialization expression that assigns values to the loop counters.  
   
